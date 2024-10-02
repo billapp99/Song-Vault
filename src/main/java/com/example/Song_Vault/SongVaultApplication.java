@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.Bean;
 
 import com.example.Song_Vault.repository.SongRepository;
-import com.example.Song_Vault.vault.Song;
+import com.example.Song_Vault.model.Song;
 
 @SpringBootApplication
 public class SongVaultApplication {

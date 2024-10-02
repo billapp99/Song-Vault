@@ -4,8 +4,7 @@ import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.example.Song_Vault.vault.Song;
-
+import com.example.Song_Vault.model.Song;
 
 
 

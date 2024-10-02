@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.Song_Vault.vault.Song;
+import com.example.Song_Vault.model.Song;
 
 @RestController
 @CrossOrigin(origins="http://localhost:4200")

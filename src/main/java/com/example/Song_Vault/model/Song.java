@@ -1,4 +1,4 @@
-package com.example.Song_Vault.vault;
+package com.example.Song_Vault.model;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;

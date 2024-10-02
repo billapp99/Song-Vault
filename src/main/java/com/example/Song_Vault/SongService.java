@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.example.Song_Vault.repository.SongRepository;
-import com.example.Song_Vault.vault.Song;
+import com.example.Song_Vault.model.Song;
 
 @Service
 public class SongService {

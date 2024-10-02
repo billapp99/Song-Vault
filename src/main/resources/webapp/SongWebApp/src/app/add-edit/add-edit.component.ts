@@ -4,9 +4,13 @@ import { Component } from '@angular/core';
   selector: 'app-add-edit',
   standalone: true,
   imports: [],
-  templateUrl: './add-edit.component.html',
+  template: `
+  <div>
+    <button type="submit" class="primary"> Click here to Add Song</button>
+  </div>
+  `,
   styleUrl: './add-edit.component.css'
 })
 export class AddEditComponent {
-
+  
 }
